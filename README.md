@@ -9,6 +9,7 @@ My research interests include:
 4. Operations Research 
 
 ## Research
+[Research](./Research.md)
 
 
 ## Teaching
