@@ -8,7 +8,7 @@ My research interests include:
 3. Integer Programming
 4. Operations Research 
 
-## Research
+[## Research](./Research.md)
 [Research](./Research.md)
 
 
