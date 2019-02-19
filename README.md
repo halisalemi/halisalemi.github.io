@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## About me 
 
-You can use the [editor on GitHub](https://github.com/halisalemi/halisalemi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Currently, I am a PhD student at the department of [Industrial Engineering and Management](https://iem.okstate.edu/), [Oklahoma State University](https://go.okstate.edu/). There, I am a research assistant under supervision of [Dr. Austin Buchanan](https://sites.google.com/site/austinlbuchanan/home). I hold a MSc in Management Engineering from [Polytechnic University of Milan](https://www.polimi.it/en/) and a BSc in Industrial Engineering from [Amirkabir University of Technology](http://aut.ac.ir/aut/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research interests include: 
+1. Combinatorial Optimization
+2. Network Analysis
+3. Integer Programming
+4. Operations Research 
 
-### Markdown
+## Research
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Teaching
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/halisalemi/halisalemi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
