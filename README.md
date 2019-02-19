@@ -8,11 +8,19 @@ My research interests include:
 3. Integer Programming
 4. Operations Research 
 
-[## Research](./Research.md)
+## Research
 [Research](./Research.md)
 
+## Codes
+
+## Talks
 
 ## Teaching
+
+## Social
+[Twitter](https://twitter.com/HASalemi)
+[Linkedin](https://www.linkedin.com/in/hosseinali-salemi-a8762066/)
+[ResearchGate](https://www.researchgate.net/profile/Hosseinali_Salemi)
 
 
 
