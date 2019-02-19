@@ -9,9 +9,7 @@ My research interests include:
 4. Operations Research 
 
 ## Research
-My research focuses on solving combinatorial optimization problems with distance constraints in graphs. 
-
-[Research](./Research.md)
+My research particularly focuses on solving combinatorial optimization problems with distance constraints in graphs. [(link)](./Research.md)
 
 ## Codes
 1. [Parsimonious formulations for low-diameter clusters](https://github.com/halisalemi/ParsimoniousKClub)
