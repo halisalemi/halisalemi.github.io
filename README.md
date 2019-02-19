@@ -9,6 +9,7 @@ My research interests include:
 4. Operations Research 
 
 ## Research
+My research focuses on solving combinatorial optimization problems with distance constraints in graphs. 
 [Research](./Research.md)
 
 ## Codes
@@ -18,9 +19,9 @@ My research interests include:
 ## Teaching
 
 ## Social
-[Twitter](https://twitter.com/HASalemi)
-[Linkedin](https://www.linkedin.com/in/hosseinali-salemi-a8762066/)
-[ResearchGate](https://www.researchgate.net/profile/Hosseinali_Salemi)
+1. [Twitter](https://twitter.com/HASalemi)
+2. [Linkedin](https://www.linkedin.com/in/hosseinali-salemi-a8762066/)
+3. [ResearchGate](https://www.researchgate.net/profile/Hosseinali_Salemi)
 
 
 
