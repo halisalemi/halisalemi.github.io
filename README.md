@@ -20,11 +20,11 @@ My research particularly focuses on solving combinatorial optimization problems 
 3. 2018 INFORMS Annual Meeting, Phoenix, Arizona.
 
 ## Teaching
-1. IEM 3703, Probability and Statistics for Engineers II (spring 2019)
+1. IEM 3703, Probability and Statistics for Engineers II (Spring 2019)
 
 ## Social
 1. [Twitter](https://twitter.com/HASalemi)
-2. [Linkedin](https://www.linkedin.com/in/hosseinali-salemi-a8762066/)
+2. [LinkedIn](https://www.linkedin.com/in/hosseinali-salemi-a8762066/)
 3. [ResearchGate](https://www.researchgate.net/profile/Hosseinali_Salemi)
 
 
