@@ -4,6 +4,8 @@ Currently, I am a PhD student at the department of [Industrial Engineering and M
 
 **Email:** hosseinali.salemi(at)okstate(dot)edu
 
+You can find my CV [here](https://drive.google.com/file/d/1dLeYsdanG-5aJZivj2sS_pvwCjcGLH1Q/view?usp=sharing).
+
 My research interests include:
 1. Combinatorial Optimization
 2. Network Analysis
