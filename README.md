@@ -4,25 +4,25 @@ Currently, I am a PhD student at the department of [Industrial Engineering and M
 
 Email: hosseinali.salemi(at)okstate(dot)edu
 
-My research interests include:** 
-1. Combinatorial Optimization**
+My research interests include:
+1. Combinatorial Optimization
 2. Network Analysis
 3. Integer Programming
 4. Operations Research
 
 ## Research
-My research particularly focuses on solving combinatorial optimization problems with distance constraints in graphs.** [(link)](./Research.md)
+My research particularly focuses on solving combinatorial optimization problems with distance constraints in graphs. [(link)](./Research.md)
 
 ## Codes
 1. [Parsimonious formulations for low-diameter clusters](https://github.com/halisalemi/ParsimoniousKClub)
 
 ## Talks
-1. 2017 INFORMS Annual Meeting, Houston, Texas.**
-2. 2018 INFORMS Optimization Society Conference, Denver, Colorado.**
-3. 2018 INFORMS Annual Meeting, Phoenix, Arizona.**
+1. 2017 INFORMS Annual Meeting, Houston, Texas.
+2. 2018 INFORMS Optimization Society Conference, Denver, Colorado.
+3. 2018 INFORMS Annual Meeting, Phoenix, Arizona.
 
 ## Teaching
-1. IEM 3703, Probability and Statistics for Engineers II (Spring 2019)**
+1. IEM 3703, Probability and Statistics for Engineers II (Spring 2019)
 
 ## Social
 1. [Twitter](https://twitter.com/HASalemi)
