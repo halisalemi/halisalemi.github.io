@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
 title: Hosseinali Salemi
 description: Optimator
+search: true
 #remote_theme: benbalter/retlab
 #contact_links:
   #- name: Twitter
