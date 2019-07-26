@@ -6,3 +6,7 @@ description: Optimator
   #- name: Twitter
     #url: https://twitter.com/HASalemi
     #icon: twitter
+
+
+remote_theme: mmistakes/minimal-mistakes
+twitter_username: HASalemi
