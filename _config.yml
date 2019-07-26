@@ -1,15 +1,5 @@
-#theme: jekyll-theme-slate
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: air
-search: true
-author:
-  name: Hosseinali Salemi
-  location: "Somewhere"
+theme: jekyll-theme-slate
 title: Hosseinali Salemi
 description: Optimator
-#remote_theme: benbalter/retlab
-#contact_links:
-  #- name: Twitter
-    #url: https://twitter.com/HASalemi
-    #icon: twitter
+
 
