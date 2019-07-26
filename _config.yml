@@ -1,3 +1,7 @@
 theme: jekyll-theme-slate
 title: Hosseinali Salemi
 description: Optimator
+contact_links:
+- name: Twitter
+    url: https://twitter.com/HASalemi
+    icon: twitter
