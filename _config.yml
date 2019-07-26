@@ -1,8 +1,8 @@
 theme: jekyll-theme-slate
 title: Hosseinali Salemi
 description: Optimator
-remote_theme: benbalter/retlab
-contact_links:
-  - name: Twitter
-    url: https://twitter.com/HASalemi
-    icon: twitter
+#remote_theme: benbalter/retlab
+#contact_links:
+  #- name: Twitter
+    #url: https://twitter.com/HASalemi
+    #icon: twitter
