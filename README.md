@@ -20,7 +20,7 @@ My research particularly focuses on solving combinatorial optimization problems 
 
 ## Talks
 1. 2017 INFORMS Annual Meeting, Houston, Texas;
-2. 2018 INFORMS Optimization Society Conference, Denver, Colorado;
+2. 2018 INFORMS Optimization Society Conference, Denver, Colorado. [(slides)](https://drive.google.com/file/d/1CJx621oXegWQrmu5GoihqY1xpe3s8jlC/view?usp=sharing);
 3. 2018 INFORMS Annual Meeting, Phoenix, Arizona.
 
 ## Teaching
