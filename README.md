@@ -24,7 +24,7 @@ My research particularly focuses on solving combinatorial optimization problems 
 3. 2018 INFORMS Annual Meeting, Phoenix, Arizona.
 
 ## Teaching
-1. IEM 3703, Probability and Statistics for Engineers II, [Oklahoma State University](https://go.okstate.edu/), Spring 2019 (full responsibility).
+1. IEM 3703, Probability and Statistics for Engineers II, Oklahoma State University, Spring 2019 (full responsibility).
 
 ## Social
 1. [Twitter](https://twitter.com/HASalemi)
