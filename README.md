@@ -1,6 +1,6 @@
 ## About me 
 
-Currently, I am a PhD student at the department of [Industrial Engineering and Management](https://iem.okstate.edu/), [Oklahoma State University](https://go.okstate.edu/). There, I am a research assistant under supervision of [Dr. Austin Buchanan](https://sites.google.com/site/austinlbuchanan/home). Prior to this, I earned a MSc in Management Engineering from [Polytechnic University of Milan](https://www.polimi.it/en/). There, my supervisor was [Dr. Riccardo Mangiaracina](https://www.som.polimi.it/en/professor/mangiaracina-riccardo/). I also hold a BSc in Industrial Engineering from [Amirkabir University of Technology](http://aut.ac.ir/en/).
+Currently, I am a PhD student at the department of [Industrial Engineering and Management](https://iem.okstate.edu/), [Oklahoma State University](https://go.okstate.edu/). There, I am a research assistant under supervision of [Dr. Austin Buchanan](https://sites.google.com/site/austinlbuchanan/home). Prior to this, I earned a MSc in Management Engineering from [Polytechnic University of Milan](https://www.polimi.it/en/) under supervision of [Dr. Riccardo Mangiaracina](https://www.som.polimi.it/en/professor/mangiaracina-riccardo/). I also hold a BSc in Industrial Engineering from [Amirkabir University of Technology](http://aut.ac.ir/en/).
 
 **Email:** hosseinali.salemi(at)okstate(dot)edu
 
@@ -12,8 +12,8 @@ My research interests include:
 3. Integer Programming;
 4. Operations Research.
 
-## Research
-My research particularly focuses on solving combinatorial optimization problems with distance/connectivity constraints in graphs. [(link)](./Research.md)
+## Research [(link)](./Research.md)
+My research particularly focuses on solving combinatorial optimization problems with distance/connectivity constraints in graphs. 
 
 ## Codes
 1. [Parsimonious formulations for low-diameter clusters](https://github.com/halisalemi/ParsimoniousKClub)
