@@ -30,7 +30,7 @@ My research particularly focuses on solving combinatorial optimization problems 
 2. [LinkedIn](https://www.linkedin.com/in/hosseinali-salemi-a8762066/)
 3. [ResearchGate](https://www.researchgate.net/profile/Hosseinali_Salemi)
 
-![headshot](https://github.com/halisalemi/halisalemi.github.io/blob/master/assets/images/Ali.png)
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 
 
