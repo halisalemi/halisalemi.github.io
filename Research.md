@@ -11,4 +11,4 @@
 
 - Global facility location: stochastic capacitated model with single sourcing. [(link)](https://www.politesi.polimi.it/handle/10589/108091)
 
-[back](./homepage.md)
+[back](./README.md)
