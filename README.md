@@ -1,5 +1,3 @@
-![headshot](https://github.com/halisalemi/halisalemi.github.io/blob/master/assets/images/Ali.png)
-
 ## About me 
 Currently, I am a PhD student at the department of [Industrial Engineering and Management](https://iem.okstate.edu/), [Oklahoma State University](https://go.okstate.edu/). There, I am a research assistant under supervision of [Dr. Austin Buchanan](https://sites.google.com/site/austinlbuchanan/home). Prior to this, I earned a MSc in Management Engineering from [Polytechnic University of Milan](https://www.polimi.it/en/) under supervision of [Dr. Riccardo Mangiaracina](https://www.som.polimi.it/en/professor/mangiaracina-riccardo/). I also hold a BSc in Industrial Engineering from [Amirkabir University of Technology](http://aut.ac.ir/en/).
 
@@ -31,6 +29,8 @@ My research particularly focuses on solving combinatorial optimization problems 
 1. [Twitter](https://twitter.com/HASalemi)
 2. [LinkedIn](https://www.linkedin.com/in/hosseinali-salemi-a8762066/)
 3. [ResearchGate](https://www.researchgate.net/profile/Hosseinali_Salemi)
+
+![headshot](https://github.com/halisalemi/halisalemi.github.io/blob/master/assets/images/Ali.png)
 
 
 
