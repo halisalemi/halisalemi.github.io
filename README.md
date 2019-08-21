@@ -19,6 +19,10 @@ My research particularly focuses on solving combinatorial optimization problems 
 ## Codes
 1. [Parsimonious formulations for low-diameter clusters](https://github.com/halisalemi/ParsimoniousKClub)
 
+## Projects - Applications of Optimization
+1. Formulation and solution of master production planning in large-scale private label manufacturing. (In Progress).
+With [Yajun Lu](https://www.bucknell.edu/fac-staff/yajun-lu), [Hao pan](https://www.linkedin.com/in/hao-pan-9b905456/), [Balabhaskar Balasundaram](https://baski.okstate.edu/bio), [Austin Buchanan](https://sites.google.com/site/austinlbuchanan/home), and [Sunderesh Heragu](https://iem.okstate.edu/node/107).  
+
 ## Talks
 1. 2017 INFORMS Annual Meeting, Houston, Texas;
 2. 2018 INFORMS Optimization Society Conference, Denver, Colorado. [(slides)](https://drive.google.com/file/d/1CJx621oXegWQrmu5GoihqY1xpe3s8jlC/view?usp=sharing);
