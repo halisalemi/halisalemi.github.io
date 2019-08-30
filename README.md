@@ -8,10 +8,10 @@ Currently, I am a PhD student at the department of [Industrial Engineering and M
 You can find my **CV** [here](https://drive.google.com/file/d/1dLeYsdanG-5aJZivj2sS_pvwCjcGLH1Q/view?usp=sharing) and my **Google Scholar Profile** [here](https://scholar.google.com/citations?user=rvuBQ_MAAAAJ&hl=en&oi=ao).
 
 My research interests include:
-1. Combinatorial Optimization;
-2. Network Analysis;
-3. Integer Programming;
-4. Operations Research.
+1. Network Design & Analysis;
+2. Combinatorial Optimization;
+3. Operations Research;
+4. Integer Programming;
 
 ## Research [(link)](./Research.md)
 My research particularly focuses on solving combinatorial optimization problems with distance/connectivity constraints in graphs. 
