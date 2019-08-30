@@ -1,3 +1,9 @@
+## Refereed Journal Articles
+
+1. Salemi, Hosseinali. A hybrid algorithm for stochastic single-source capacitated facility location problem
+with service level requirements. *International Journal of Industrial Engineering Computations 7.2
+(2016): 295-308.* [(pdf)](http://m.growingscience.com/ijiec/Vol7/IJIEC_2015_37.pdf)
+
 ## Under review
 
 1. H. Salemi, A. Buchanan. Parsimonious formulations for low-diameter clusters. Revision submitted to *Mathematical Programming Computation, August 2019.* [(link)](http://www.optimization-online.org/DB_HTML/2017/09/6196.html)[(code)](https://github.com/halisalemi/ParsimoniousKClub)
