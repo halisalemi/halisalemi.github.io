@@ -16,12 +16,12 @@ My research interests include:
 ## Research [(link)](./Research.md)
 My research particularly focuses on solving combinatorial optimization problems with distance/connectivity constraints in graphs. 
 
-## Codes
-1. [Parsimonious formulations for low-diameter clusters](https://github.com/halisalemi/ParsimoniousKClub)
-
 ## Projects - Applications of Optimization
 1. Optimization-Based Aggregate Master Planning Tools for Bay Valley Foods, LLC. (In Progress).
-With [Yajun Lu](https://www.bucknell.edu/fac-staff/yajun-lu), [Hao pan](https://www.linkedin.com/in/hao-pan-9b905456/), [Balabhaskar Balasundaram](https://baski.okstate.edu/bio), [Austin Buchanan](https://sites.google.com/site/austinlbuchanan/home), and [Sunderesh Heragu](https://iem.okstate.edu/node/107).  
+With [Yajun Lu](https://www.bucknell.edu/fac-staff/yajun-lu), [Hao pan](https://www.linkedin.com/in/hao-pan-9b905456/), [Balabhaskar Balasundaram](https://baski.okstate.edu/bio), [Austin Buchanan](https://sites.google.com/site/austinlbuchanan/home), and [Sunderesh Heragu](https://iem.okstate.edu/node/107).
+
+## Codes
+1. [Parsimonious formulations for low-diameter clusters](https://github.com/halisalemi/ParsimoniousKClub)
 
 ## Talks
 1. 2017 INFORMS Annual Meeting, Houston, Texas;
