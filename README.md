@@ -24,9 +24,9 @@ With [Yajun Lu](https://www.bucknell.edu/fac-staff/yajun-lu), [Hao pan](https://
 1. [Parsimonious formulations for low-diameter clusters](https://github.com/halisalemi/ParsimoniousKClub)
 
 ## Talks
-1. 2017 INFORMS Annual Meeting, Houston, Texas;
+1. 2018 INFORMS Annual Meeting, Phoenix, Arizona;
 2. 2018 INFORMS Optimization Society Conference, Denver, Colorado. [(slides)](https://drive.google.com/file/d/1CJx621oXegWQrmu5GoihqY1xpe3s8jlC/view?usp=sharing);
-3. 2018 INFORMS Annual Meeting, Phoenix, Arizona.
+3. 2017 INFORMS Annual Meeting, Houston, Texas.
 
 ## Teaching
 1. IEM 3703, Probability and Statistics for Engineers II, Oklahoma State University, Spring 2019 (full responsibility).
