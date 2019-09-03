@@ -29,7 +29,7 @@ With [Yajun Lu](https://www.bucknell.edu/fac-staff/yajun-lu), [Hao pan](https://
 3. 2017 INFORMS Annual Meeting, Houston, Texas.
 
 ## Teaching
-1. IEM 3703, Probability and Statistics for Engineers II, Oklahoma State University, Spring 2019 (full responsibility).
+1. Instructor of IEM 3703, Probability and Statistics for Engineers II, Oklahoma State University, Spring 2019 (full responsibility).
 
 ## Social
 1. [Twitter](https://twitter.com/HASalemi)
