@@ -11,7 +11,7 @@ with service level requirements. *International Journal of Industrial Engineerin
 ## Working papers
 1. H. Salemi, A. Buchanan. A branch-and-cut algorithm for the distance-based critical node problem. target journal: *INFORMS Journal on Computing*, anticipated submission date: October 2019. 
 
-2. Yajun Lu, H. Salemi, Balabhaskar Balasundaram, and A. Buchanan. Fault-tolerant s-clubs. target journal: *European Journal of Operational Research*, anticipated submission date: December 2019.
+2. Y. Lu, H. Salemi, B. Balasundaram, and A. Buchanan. Fault-tolerant s-clubs. target journal: *European Journal of Operational Research*, anticipated submission date: December 2019.
 
 3. Y. Lu, H. Salemi, H. Pan, B. Balasundaram, A. Buchanan, and S. Heragu. Formulation and solution of master production planning in large scale private label manufacturing. target journal: *INFORMS Journal on Applied Analytics (formerly Interfaces)*, anticipated submission date: March 2020.
 
