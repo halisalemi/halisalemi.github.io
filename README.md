@@ -33,10 +33,10 @@ With [Yajun Lu](https://www.bucknell.edu/fac-staff/yajun-lu), [Hao pan](https://
 1. Instructor of IEM 3703, Probability and Statistics for Engineers II, Oklahoma State University, Spring 2019 (full responsibility).
 
 ## Academic Services
-- President of INFORMS Student Chapter, Oklahoma State University, Fall 2019.
-- Journal Review
-    - Computers & Operations Research.
-- Conference Session Chair
+- **Journal Review**
+    - Computers & Operations Research. 
+- **President of INFORMS Student Chapter, Oklahoma State University, Fall 2019.**
+- **Conference Session Chair**
     - Telecommunications and Network Analytics, 2019 INFORMS Annual Meeting, Seattle, Washington.
     - Connectivity and Networks, 2018 INFORMS Annual Meeting, Phoenix, Arizona.
 
