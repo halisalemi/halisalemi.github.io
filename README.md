@@ -45,6 +45,7 @@ With [Yajun Lu](https://www.bucknell.edu/fac-staff/yajun-lu), [Hao pan](https://
 2. [LinkedIn](https://www.linkedin.com/in/hosseinali-salemi-a8762066/)
 3. [GitHub](https://github.com/halisalemi)
 4. [ResearchGate](https://www.researchgate.net/profile/Hosseinali_Salemi)
+5. [INFORMS Connect](https://connect.informs.org/network/members/profile?UserKey=a16b2a04-064f-4aa5-b6b4-ba38337335df)
 
 
 
