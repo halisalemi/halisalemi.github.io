@@ -13,8 +13,14 @@ My research interests include:
 3. Operations Research;
 4. Integer Programming;
 
-## Research [(link)](./Research.md)
-My research particularly focuses on solving combinatorial optimization problems with distance/connectivity constraints in graphs. 
+## Research Interests [(link to Research)](./Research.md)
+**1. Theory:** Theory, algorithms, and computation in network design and analysis.
+
+**2. Applications:**
+
+    2.1. Applications of discrete optimization in Big Data analytics of complex networks.
+                  
+    2.2. Applications of Operations Research and Management Science techniques in supply chain optimization, production planning, transportation, and logistics.
 
 ## Projects - Practice of Operations Research
 1. Optimization-Based Aggregate Master Planning Tools for [Bay Valley Foods](https://bayvalleyfoods.com/), LLC. (In Progress).
