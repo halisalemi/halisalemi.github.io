@@ -1,6 +1,6 @@
 ## Refereed Journal Articles
 
-1. Salemi, Hosseinali. A hybrid algorithm for stochastic single-source capacitated facility location problem
+1. H. Salemi. A hybrid algorithm for stochastic single-source capacitated facility location problem
 with service level requirements. *International Journal of Industrial Engineering Computations 7.2
 (2016): 295-308.* [(pdf)](http://m.growingscience.com/ijiec/Vol7/IJIEC_2015_37.pdf)
 
