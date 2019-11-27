@@ -8,15 +8,11 @@ Currently, I am a PhD student at the school of [Industrial Engineering and Manag
 You can find my **CV** [here](https://drive.google.com/file/d/1dLeYsdanG-5aJZivj2sS_pvwCjcGLH1Q/view?usp=sharing) and my **Google Scholar Profile** [here](https://scholar.google.com/citations?user=rvuBQ_MAAAAJ&hl=en&oi=ao).
 
 ## Research Interests [(link to Research)](./Research.md)
-**1. Theory:** 
-      
-      Theory, algorithms, and computation in network design and analysis.
-
-**2. Applications:**
-
-    2.1. Applications of discrete optimization in Big Data analytics of complex networks.
-                  
-    2.2. Applications of Operations Research and Management Science techniques in supply chain optimization, production planning, transportation, and logistics.
+- **1. Theory:** 
+  - Theory, algorithms, and computation in network design and analysis.
+- **2. Applications:**
+  - Applications of discrete optimization in Big Data analytics of complex networks.
+  - Applications of Operations Research and Management Science in supply chain optimization, production planning, transportation, and logistics.
 
 ## Projects - Practice of Operations Research
 1. Optimization-Based Aggregate Master Planning Tools for [Bay Valley Foods](https://bayvalleyfoods.com/), LLC. (In Progress).
