@@ -16,7 +16,7 @@ You can find my **CV** [here](https://drive.google.com/file/d/1dLeYsdanG-5aJZivj
 
 ## Projects - Practice of Operations Research
 1. Optimization-Based Aggregate Master Planning Tools for [Bay Valley Foods](https://bayvalleyfoods.com/), LLC. (In Progress).
-With [Yajun Lu](https://www.bucknell.edu/fac-staff/yajun-lu), [Hao pan](https://www.linkedin.com/in/hao-pan-9b905456/), [Balabhaskar Balasundaram](https://baski.okstate.edu/bio), [Austin Buchanan](https://sites.google.com/site/austinlbuchanan/home), and [Sunderesh Heragu](https://iem.okstate.edu/node/107).
+With [Yajun Lu](https://www.bucknell.edu/fac-staff/yajun-lu), [Hao pan](https://www.linkedin.com/in/hao-pan-9b905456/), [Balabhaskar Balasundaram](https://baski.okstate.edu/bio), [Austin Buchanan](https://iem.okstate.edu/content/buchanan-austin), and [Sunderesh Heragu](https://iem.okstate.edu/node/107).
 
 ## Codes
 1. [Parsimonious formulations for low-diameter clusters](https://github.com/halisalemi/ParsimoniousKClub)
