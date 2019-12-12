@@ -15,7 +15,7 @@ with service level requirements. *International Journal of Industrial Engineerin
 
 4. Y. Lu, H. Salemi, H. Pan, B. Balasundaram, A. Buchanan, and S. Heragu. Formulation and solution of master production planning in large scale private label manufacturing. target journal: ***INFORMS Journal on Applied Analytics (formerly Interfaces)***, anticipated submission date: April 2020.
 
-5. H. Salemi, A. Buchanan. A Benders Decomposition Algorithm To Solve Critical Node Problem. target journal: ***INFORMS Journal on Computing***, anticipated submission date: June 2020. 
+5. H. Salemi, A. Buchanan. A Benders decomposition algorithm to solve critical node problem. target journal: ***INFORMS Journal on Computing***, anticipated submission date: June 2020. 
 
 ## Master Dissertation 
 
