@@ -19,7 +19,8 @@ You can find my **CV** [here](https://drive.google.com/file/d/1dLeYsdanG-5aJZivj
 With [Yajun Lu](https://www.bucknell.edu/fac-staff/yajun-lu), [Hao pan](https://www.linkedin.com/in/hao-pan-9b905456/), [Balabhaskar Balasundaram](https://baski.okstate.edu/bio), [Austin Buchanan](https://iem.okstate.edu/content/buchanan-austin), and [Sunderesh Heragu](https://iem.okstate.edu/node/107).
 
 ## Codes
-1. [Parsimonious formulations for low-diameter clusters](https://github.com/halisalemi/ParsimoniousKClub)
+1.  [Parsimonious formulations for low-diameter clusters](https://github.com/halisalemi/ParsimoniousKClub) [![DOI](https://zenodo.org/badge/144182197.svg)](https://zenodo.org/badge/latestdoi/144182197) 
+
 
 ## Talks
 1. 2019 INFORMS Annual Meeting, Seattle, Washington. [(slides)](https://drive.google.com/file/d/1gC3ZG_FrKW8-G71sqeSWtNOC3eVLOa2l/view?usp=sharing);
