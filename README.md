@@ -39,6 +39,7 @@ With [Yajun Lu](https://www.bucknell.edu/fac-staff/yajun-lu), [Hao pan](https://
 - President of INFORMS Student Chapter, Oklahoma State University, Fall 2019.
 - Journal Review
     - Computers & Operations Research. 
+    - Omega
 - Conference Session Chair
     - Telecommunications and Network Analytics, 2019 INFORMS Annual Meeting, Seattle, Washington.
     - Connectivity and Networks, 2018 INFORMS Annual Meeting, Phoenix, Arizona.
