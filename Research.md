@@ -1,6 +1,6 @@
 ## Refereed Journal Articles
 
-1. H. Salemi, A. Buchanan. Parsimonious formulations for low-diameter clusters. Accepted at ***Mathematical Programming Computation***, December 2019. [(link)](http://www.optimization-online.org/DB_HTML/2017/09/6196.html)[(code)](https://github.com/halisalemi/ParsimoniousKClub)
+1. H. Salemi, A. Buchanan. Parsimonious formulations for low-diameter clusters. Accepted at ***Mathematical Programming Computation***, December 2019. [(link)](https://link.springer.com/article/10.1007/s12532-020-00175-6)[(code)](https://github.com/halisalemi/ParsimoniousKClub)
 
 2. H. Salemi. A hybrid algorithm for stochastic single-source capacitated facility location problem
 with service level requirements. *International Journal of Industrial Engineering Computations 7.2
