@@ -50,6 +50,7 @@ With [Yajun Lu](https://www.bucknell.edu/fac-staff/yajun-lu), [Hao pan](https://
 3. [GitHub](https://github.com/halisalemi)
 4. [ResearchGate](https://www.researchgate.net/profile/Hosseinali_Salemi)
 5. [INFORMS Connect](https://connect.informs.org/network/members/profile?UserKey=a16b2a04-064f-4aa5-b6b4-ba38337335df)
+6. [ORCID](https://orcid.org/0000-0002-0675-7886)
 
 
 
