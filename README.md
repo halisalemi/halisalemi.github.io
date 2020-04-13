@@ -23,6 +23,8 @@ You can find my **CV** [here](https://drive.google.com/file/d/1dLeYsdanG-5aJZivj
 [Parsimonious formulations for low-diameter clusters](https://github.com/halisalemi/ParsimoniousKClub)
 
   [![DOI](https://zenodo.org/badge/144182197.svg)](https://zenodo.org/badge/latestdoi/144182197)
+  
+[Solving the distance-based critical node problem](https://github.com/halisalemi/DCNP)
 
 
 ## Talks
