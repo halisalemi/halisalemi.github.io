@@ -7,11 +7,10 @@ with service level requirements. *International Journal of Industrial Engineerin
 (2016): 295-308.* [(pdf)](http://m.growingscience.com/ijiec/Vol7/IJIEC_2015_37.pdf)
 
 ## Working Papers
-1. H. Salemi, A. Buchanan. Solving distance-based critical node problem. target journal: ***INFORMS Journal on Computing***, anticipated submission date: April 2020. 
 
-2. Y. Lu, H. Salemi, B. Balasundaram, and A. Buchanan. Fault-tolerant s-clubs. target journal: ***INFORMS Journal on Computing***, anticipated submission date: June 2020.
+1. Y. Lu, H. Salemi, B. Balasundaram, and A. Buchanan. Fault-tolerant s-clubs. target journal: ***INFORMS Journal on Computing***, anticipated submission date: June 2020.
 
-3. Y. Lu, H. Salemi, H. Pan, B. Balasundaram, A. Buchanan, and S. Heragu. Formulation and solution of master production planning in large scale private label manufacturing. target journal: ***INFORMS Journal on Applied Analytics (formerly Interfaces)***, anticipated submission date: July 2020.
+2. Y. Lu, H. Salemi, H. Pan, B. Balasundaram, A. Buchanan, and S. Heragu. Formulation and solution of master production planning in large scale private label manufacturing. target journal: ***INFORMS Journal on Applied Analytics (formerly Interfaces)***, anticipated submission date: July 2020.
 
 ## Master Dissertation 
 
