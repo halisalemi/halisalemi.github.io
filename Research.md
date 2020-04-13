@@ -13,6 +13,6 @@ with service level requirements. *International Journal of Industrial Engineerin
 
 ## Master Dissertation 
 
-- Global facility location: stochastic capacitated model with single sourcing. ***Politecnico di Milano.*** [(link)](https://www.politesi.polimi.it/handle/10589/108091)
+- Global facility location: stochastic capacitated model with single sourcing. *Politecnico di Milano.* [(link)](https://www.politesi.polimi.it/handle/10589/108091)
 
 [Back to Home](./README.md)
