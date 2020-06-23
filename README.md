@@ -15,15 +15,13 @@ You can find my **CV** [here](https://drive.google.com/file/d/1dLeYsdanG-5aJZivj
   - Applications of Operations Research and Management Science in supply chain optimization, production planning, transportation, and logistics.
 
 ## Projects - Practice of Operations Research
-1. Optimization-Based Aggregate Master Planning Tools for [Bay Valley Foods](https://bayvalleyfoods.com/), LLC. (In Progress).
+1. Optimization-Based Aggregate Master Planning Tools for [Bay Valley Foods](https://bayvalleyfoods.com/), LLC.
 
-2. Freight Lane Assignment Tool for [TreeHouse Foods Inc](https://treehousefoods.com/) (In Progress).
+2. Freight Lane Assignment Tool for [TreeHouse Foods Inc](https://treehousefoods.com/).
 
 ## Codes
-[Parsimonious formulations for low-diameter clusters](https://github.com/halisalemi/ParsimoniousKClub)
+[Parsimonious formulations for low-diameter clusters](https://github.com/halisalemi/ParsimoniousKClub) &nbsp; &nbsp; [![DOI](https://zenodo.org/badge/144182197.svg)](https://zenodo.org/badge/latestdoi/144182197)
 
-  [![DOI](https://zenodo.org/badge/144182197.svg)](https://zenodo.org/badge/latestdoi/144182197)
-  
 [Solving the distance-based critical node problem](https://github.com/halisalemi/DCNP)
 
 
@@ -34,10 +32,10 @@ You can find my **CV** [here](https://drive.google.com/file/d/1dLeYsdanG-5aJZivj
 4. 2017 INFORMS Annual Meeting, Houston, Texas.
 
 ## Teaching
-1. Instructor of IEM 3703, Probability and Statistics for Engineers II, Oklahoma State University, Spring 2019 (full responsibility).
+1. Instructor of IEM 3703, Probability and Statistics for Engineers II, Oklahoma State University, Spring 2019.
 
 ## Academic Services
-- President of INFORMS Student Chapter, Oklahoma State University, Fall 2019.
+- President of INFORMS Student Chapter, Oklahoma State University, 2019-2020.
 - Journal Review
     - Computers & Operations Research. 
     - Omega
