@@ -15,7 +15,7 @@ You can find my **CV** [here](https://drive.google.com/file/d/1dLeYsdanG-5aJZivj
   - Applications of Operations Research and Management Science in supply chain optimization, production planning, transportation, and logistics.
 
 ## Projects - Practice of Operations Research
-1. Optimization-Based Aggregate Master Planning Tools for [Bay Valley Foods](https://bayvalleyfoods.com/), LLC.
+1. Optimization-Based Aggregate Master Planning Tools for [Bay Valley Foods, LLC](https://bayvalleyfoods.com/).
 
 2. Freight Lane Assignment Tool for [TreeHouse Foods Inc](https://treehousefoods.com/).
 
