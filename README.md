@@ -3,7 +3,7 @@
 ## About me 
 Currently, I am a Postdoctoral Research Associate in the [Department of Industrial and Manufacturing Systems Engineering](https://www.imse.iastate.edu/), [Iowa State University](https://www.iastate.edu/). Prior to this, I was a PhD student at the [School of Industrial Engineering and Management](https://iem.okstate.edu/), [Oklahoma State University](https://go.okstate.edu/) under supervision of [Dr. Austin Buchanan](https://sites.google.com/site/austinlbuchanan/home). I also earned a MSc in Management Engineering from [Polytechnic University of Milan](https://www.polimi.it/en/) under supervision of [Dr. Riccardo Mangiaracina](https://www.som.polimi.it/en/professor/mangiaracina-riccardo/) and a BSc in Industrial Engineering from [Amirkabir University of Technology](http://aut.ac.ir/en/).
 
-**Email:** hosseinali.salemi(at)okstate(dot)edu
+**Email:** hsalemi(at)iastate(dot)edu
 
 You can find my **CV** [here](https://drive.google.com/file/d/1dLeYsdanG-5aJZivj2sS_pvwCjcGLH1Q/view?usp=sharing) and my **Google Scholar Profile** [here](https://scholar.google.com/citations?user=rvuBQ_MAAAAJ&hl=en&oi=ao).
 
