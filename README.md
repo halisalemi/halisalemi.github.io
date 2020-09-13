@@ -1,7 +1,7 @@
 ![headshot](https://raw.githubusercontent.com/halisalemi/halisalemi.github.io/master/assets/images/headshot.png)
 
 ## About me 
-Currently, I am a Postdoctoral Research Associate in the [Department of Industrial and Manufacturing Systems Engineering](https://www.imse.iastate.edu/), [Iowa State University](https://www.iastate.edu/). Prior to this, I was a PhD student at the [School of Industrial Engineering and Management](https://iem.okstate.edu/), [Oklahoma State University](https://go.okstate.edu/) under supervision of [Dr. Austin Buchanan](https://sites.google.com/site/austinlbuchanan/home). I also earned a MSc in Management Engineering from [Polytechnic University of Milan](https://www.polimi.it/en/) under supervision of [Dr. Riccardo Mangiaracina](https://www.som.polimi.it/en/professor/mangiaracina-riccardo/) and a BSc in Industrial Engineering from [Amirkabir University of Technology](http://aut.ac.ir/en/).
+Currently, I am a Postdoctoral Research Associate in the [Department of Industrial and Manufacturing Systems Engineering](https://www.imse.iastate.edu/), [Iowa State University](https://www.iastate.edu/). Prior to this, I earned a PhD at the [School of Industrial Engineering and Management](https://iem.okstate.edu/), [Oklahoma State University](https://go.okstate.edu/) under supervision of [Dr. Austin Buchanan](https://sites.google.com/site/austinlbuchanan/home). I also hold an MSc in Management Engineering from [Polytechnic University of Milan](https://www.polimi.it/en/) under supervision of [Dr. Riccardo Mangiaracina](https://www.som.polimi.it/en/professor/mangiaracina-riccardo/) and a BSc in Industrial Engineering from [Amirkabir University of Technology](http://aut.ac.ir/en/).
 
 **Email:** hsalemi(at)iastate(dot)edu
 
