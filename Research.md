@@ -8,7 +8,7 @@ with service level requirements. *International Journal of Industrial Engineerin
 
 ## Submitted Papers
 
-- H. Salemi, A. Buchanan. Solving the distance-based critical node problem. Submitted, April 2020. [(link)](http://www.optimization-online.org/DB_FILE/2020/04/7751.pdf)[(code)](https://github.com/halisalemi/DCNP)
+- H. Salemi, A. Buchanan. Solving the distance-based critical node problem. Under revision at *INFORMS Journal on Computing*, October 2020. [(link)](http://www.optimization-online.org/DB_FILE/2020/04/7751.pdf)[(code)](https://github.com/halisalemi/DCNP)
 
 
 ## Master Dissertation 
