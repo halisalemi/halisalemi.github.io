@@ -26,10 +26,11 @@ You can find my **CV** [here](https://drive.google.com/file/d/14_IMphh3CjNon-iR4
 
 
 ## Talks
-1. 2019 INFORMS Annual Meeting, Seattle, Washington;
-2. 2018 INFORMS Annual Meeting, Phoenix, Arizona;
-3. 2018 INFORMS Optimization Society Conference, Denver, Colorado;
-4. 2017 INFORMS Annual Meeting, Houston, Texas
+1. Graduate Seminar Series, Department of Industrial and Manufacturing Systems Engineering, Iowa State University, Ames, Iowa, 2020;
+2. 2019 INFORMS Annual Meeting, Seattle, Washington, 2019;
+3. 2018 INFORMS Annual Meeting, Phoenix, Arizona, 2018;
+4. 2018 INFORMS Optimization Society Conference, Denver, Colorado, 2018;
+5. 2017 INFORMS Annual Meeting, Houston, Texas, 2017.
 
 ## Teaching
 1. Instructor of IEM 3703, Probability and Statistics for Engineers II, Oklahoma State University, Spring 2019.
