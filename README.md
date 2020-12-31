@@ -37,13 +37,14 @@ You can find my **CV** [here](https://drive.google.com/file/d/14_IMphh3CjNon-iR4
 1. Instructor of IEM 3703, Probability and Statistics for Engineers II, Oklahoma State University, Spring 2019.
 
 ## Academic Services
-- President of INFORMS Student Chapter, Oklahoma State University, 2019-2020
 - Journal Review
+    - European Journal of Operational Research;
     - Computers & Operations Research;
     - Omega
 - Conference Session Chair
     - Telecommunications and Network Analytics, 2019 INFORMS Annual Meeting, Seattle, Washington;
     - Connectivity and Networks, 2018 INFORMS Annual Meeting, Phoenix, Arizona
+- President of INFORMS Student Chapter, Oklahoma State University, 2019-2020
 
 ## Social
 1. [Twitter](https://twitter.com/HASalemi)
