@@ -7,9 +7,9 @@ with service level requirements. *International Journal of Industrial Engineerin
 
 ## Submitted Papers
 
-- H. Salemi, D. Davarnia. On the structure of decision diagram-representable mixed integer programs with application to unit commitment. Submitted. [(link)](http://www.optimization-online.org/DB_FILE/2021/01/8234.pdf)
+- H. Salemi, D. Davarnia. On the structure of decision diagram-representable mixed integer programs with application to unit commitment. Submitted. [(link)](http://www.optimization-online.org/DB_HTML/2021/01/8234.html)
 
-- H. Salemi, A. Buchanan. Solving the distance-based critical node problem. Under revision at *INFORMS Journal on Computing*, October 2020. [(link)](http://www.optimization-online.org/DB_FILE/2020/04/7751.pdf)[(code)](https://github.com/halisalemi/DCNP)
+- H. Salemi, A. Buchanan. Solving the distance-based critical node problem. Under revision at *INFORMS Journal on Computing*, October 2020. [(link)](http://www.optimization-online.org/DB_HTML/2020/04/7751.html)[(code)](https://github.com/halisalemi/DCNP)
 
 ## Master Dissertation 
 
