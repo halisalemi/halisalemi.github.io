@@ -21,6 +21,5 @@ with service level requirements. *International Journal of Industrial Engineerin
 
 - Global facility location: stochastic capacitated model with single sourcing. *Polytechnic University of Milan (Politecnico di Milano)*. [(link)](https://www.politesi.polimi.it/handle/10589/108091)
 
-<br>
 
 [Back to the Home Page](./README.md)
