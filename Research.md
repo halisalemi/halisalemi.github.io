@@ -25,7 +25,7 @@ with service level requirements. *International Journal of Industrial Engineerin
 
 <div align="center">
 
-|[`Back to the Home Page`](./README.md)|
-|-----------------|
+[Back to the Home Page](./README.md)
+
   
 </div>
