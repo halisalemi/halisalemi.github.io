@@ -23,9 +23,4 @@ with service level requirements. *International Journal of Industrial Engineerin
 
 <br>
 
-<div align="center">
-
 [Back to the Home Page](./README.md)
-
-  
-</div>
