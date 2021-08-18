@@ -46,11 +46,12 @@ with service level requirements. *International Journal of Industrial Engineerin
 * * *
 
 # Teaching
-- **Undergraduate Course** 
-  - IEM 3703, Probability and Statistics for Engineers II, Oklahoma State University, Spring 2019.
 
 - **Graduate Course** 
   - IE 510, Network Analysis, Iowa State University, Fall 2021.
+  
+- **Undergraduate Course** 
+  - IEM 3703, Probability and Statistics for Engineers II, Oklahoma State University, Spring 2019.
 
 * * *
 
