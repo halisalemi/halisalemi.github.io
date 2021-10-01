@@ -12,7 +12,7 @@ My research focuses on theory and computation in network design and analysis, ap
 
 ### Refereed Journal Papers
 
-- H. Salemi, A. Buchanan. Solving the distance-based critical node problem. To appear at *INFORMS Journal on Computing*. [(link)](http://www.optimization-online.org/DB_HTML/2020/04/7751.html)[(pdf)](https://drive.google.com/file/d/1mj6Y4AfKI7vkMUYea8Sg23StmuEkLHKH/view?usp=sharing)[(code)](https://github.com/halisalemi/DCNP)
+- H. Salemi, A. Buchanan. Solving the distance-based critical node problem. To appear at *INFORMS Journal on Computing*. [(pdf)](https://drive.google.com/file/d/1mj6Y4AfKI7vkMUYea8Sg23StmuEkLHKH/view?usp=sharing)[(code)](https://github.com/halisalemi/DCNP)
 
 - H. Salemi, A. Buchanan. Parsimonious formulations for low-diameter clusters. *Mathematical Programming Computation*, 12(3): 493-528, 2020. [(link)](https://link.springer.com/article/10.1007/s12532-020-00175-6)[(pdf)](https://drive.google.com/file/d/1SgL7xWAeExdoQ3SjR0zertfrOOCoOlWA/view?usp=sharing)[(code)](https://github.com/halisalemi/ParsimoniousKClub)
 
