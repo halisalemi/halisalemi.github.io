@@ -22,7 +22,7 @@ with service level requirements. *International Journal of Industrial Engineerin
 ### Other Peer-Reviewed Papers
 
 - H. Salemi, D. Davarnia. On the structure of decision diagram-representable mixed integer programs with application to unit commitment (*Peer-reviewed in a non-proceeding track*).
- **Finalist for IISE Best Paper Award in Energy Systems Division, 2021**.
+ **Finalist for IISE Best Paper Award in Energy Systems Division, 2021**. [(link)](https://www.iise.org/details.aspx?id=43037#:~:text=%E2%80%9COn%20the%20Structure%20of%20Decision%20Diagram%2Drepresentable%20Mixed%20Integer%20Programs%20with%20Application%20to%20Unit%20Commitment%E2%80%9D%20Finalist)
 
 
 ### Papers Under Review/Revision
