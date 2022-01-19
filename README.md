@@ -12,9 +12,9 @@ My research focuses on theory and computation in network design and analysis, ap
 
 ### Refereed Journal Papers
 
-- H. Salemi, A. Buchanan. Solving the distance-based critical node problem. To appear at *INFORMS Journal on Computing*. [(pdf)](https://drive.google.com/file/d/1mj6Y4AfKI7vkMUYea8Sg23StmuEkLHKH/view?usp=sharing)[(code)](https://github.com/halisalemi/DCNP)
+- H. Salemi, A. Buchanan. Solving the distance-based critical node problem. To appear at *INFORMS Journal on Computing*. [(link)](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2021.1136) [(pdf)](https://drive.google.com/file/d/1mj6Y4AfKI7vkMUYea8Sg23StmuEkLHKH/view?usp=sharing) [(code)](https://github.com/halisalemi/DCNP)
 
-- H. Salemi, A. Buchanan. Parsimonious formulations for low-diameter clusters. *Mathematical Programming Computation*, 12(3): 493-528, 2020. [(link)](https://link.springer.com/article/10.1007/s12532-020-00175-6)[(pdf)](https://drive.google.com/file/d/1SgL7xWAeExdoQ3SjR0zertfrOOCoOlWA/view?usp=sharing)[(code)](https://github.com/halisalemi/ParsimoniousKClub)
+- H. Salemi, A. Buchanan. Parsimonious formulations for low-diameter clusters. *Mathematical Programming Computation*, 12(3): 493-528, 2020. [(link)](https://link.springer.com/article/10.1007/s12532-020-00175-6) [(pdf)](https://drive.google.com/file/d/1SgL7xWAeExdoQ3SjR0zertfrOOCoOlWA/view?usp=sharing) [(code)](https://github.com/halisalemi/ParsimoniousKClub)
 
 - H. Salemi. A hybrid algorithm for stochastic single-source capacitated facility location problem
 with service level requirements. *International Journal of Industrial Engineering Computations*, 7.2: 295-308, 2016. [(link)](http://m.growingscience.com/ijiec/Vol7/IJIEC_2015_37.pdf)
