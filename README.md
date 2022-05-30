@@ -1,9 +1,9 @@
 ![headshot](https://raw.githubusercontent.com/halisalemi/halisalemi.github.io/master/assets/images/headshot.png)
 
 # About me 
-I am a Postdoctoral Research Associate in the [Department of Industrial and Manufacturing Systems Engineering](https://www.imse.iastate.edu/) at [Iowa State University](https://www.iastate.edu/). Prior to this, I earned my PhD in the [School of Industrial Engineering and Management](https://iem.okstate.edu/) at [Oklahoma State University](https://go.okstate.edu/) under supervision of [Dr. Austin Buchanan](https://austinlbuchanan.github.io/). I also hold an MSc in Management Engineering from [Polytechnic University of Milan](https://www.polimi.it/en/) under supervision of [Dr. Riccardo Mangiaracina](https://www.som.polimi.it/en/professor/mangiaracina-riccardo/) and a BSc in Industrial and Systems Engineering from [Amirkabir University of Technology](http://aut.ac.ir/en/).
+I am an Operations Research Scientist at [FedEx](https://www.fedex.com/en-us/home.html). Prior to this, I was a postdoc in the [Department of Industrial and Manufacturing Systems Engineering](https://www.imse.iastate.edu/) at [Iowa State University](https://www.iastate.edu/). I earned my PhD in the [School of Industrial Engineering and Management](https://iem.okstate.edu/) at [Oklahoma State University](https://go.okstate.edu/) under supervision of [Dr. Austin Buchanan](https://austinlbuchanan.github.io/). I also hold an MSc in Management Engineering from [Polytechnic University of Milan](https://www.polimi.it/en/) under supervision of [Dr. Riccardo Mangiaracina](https://www.som.polimi.it/en/professor/mangiaracina-riccardo/) and a BSc in Industrial and Systems Engineering from [Amirkabir University of Technology](http://aut.ac.ir/en/).
 
-My **email** is hsalemi(at)iastate(dot)edu. You can find my **CV** [here](https://drive.google.com/file/d/14_IMphh3CjNon-iR4ReLyaj3pdNPaesU/view?usp=sharing) and my **Google Scholar** [here](https://scholar.google.com/citations?user=rvuBQ_MAAAAJ&hl=en&oi=ao).
+My **email** is hosseinali.salemi(at)fedex(dot)com. You can find my **CV** [here](https://drive.google.com/file/d/14_IMphh3CjNon-iR4ReLyaj3pdNPaesU/view?usp=sharing) and my **Google Scholar** [here](https://scholar.google.com/citations?user=rvuBQ_MAAAAJ&hl=en&oi=ao).
 
 * * *
 
