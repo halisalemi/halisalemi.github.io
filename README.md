@@ -12,6 +12,8 @@ My research focuses on theory and computation in network design and analysis, ap
 
 ### Refereed Journal Papers
 
+- H. Salemi, D. Davarnia. On the structure of decision diagram-representable mixed integer programs with application to unit commitment. To appear at *Operations Research*. [(link)](http://www.optimization-online.org/DB_HTML/2021/01/8234.html) **Finalist for IISE Best Paper Award in Energy Systems Division, 2021**. [(link)](https://www.iise.org/details.aspx?id=43037#:~:text=%E2%80%9COn%20the%20Structure%20of%20Decision%20Diagram%2Drepresentable%20Mixed%20Integer%20Programs%20with%20Application%20to%20Unit%20Commitment%E2%80%9D%20Finalist)
+
 - H. Salemi, A. Buchanan. Solving the distance-based critical node problem. *INFORMS Journal on Computing*, 34(3): 1309-1326, 2022. [(link)](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2021.1136) [(pdf)](https://drive.google.com/file/d/1mj6Y4AfKI7vkMUYea8Sg23StmuEkLHKH/view?usp=sharing) [(code)](https://github.com/halisalemi/DCNP)
 
 - H. Salemi, A. Buchanan. Parsimonious formulations for low-diameter clusters. *Mathematical Programming Computation*, 12(3): 493-528, 2020. [(link)](https://link.springer.com/article/10.1007/s12532-020-00175-6) [(pdf)](https://drive.google.com/file/d/1SgL7xWAeExdoQ3SjR0zertfrOOCoOlWA/view?usp=sharing) [(code)](https://github.com/halisalemi/ParsimoniousKClub)
@@ -19,17 +21,11 @@ My research focuses on theory and computation in network design and analysis, ap
 - H. Salemi. A hybrid algorithm for stochastic single-source capacitated facility location problem
 with service level requirements. *International Journal of Industrial Engineering Computations*, 7.2: 295-308, 2016. [(link)](http://m.growingscience.com/ijiec/Vol7/IJIEC_2015_37.pdf)
 
-### Other Peer-Reviewed Papers
-
-- H. Salemi, D. Davarnia. On the structure of decision diagram-representable mixed integer programs with application to unit commitment (*Peer-reviewed in a non-proceeding track*).
- **Finalist for IISE Best Paper Award in Energy Systems Division, 2021**. [(link)](https://www.iise.org/details.aspx?id=43037#:~:text=%E2%80%9COn%20the%20Structure%20of%20Decision%20Diagram%2Drepresentable%20Mixed%20Integer%20Programs%20with%20Application%20to%20Unit%20Commitment%E2%80%9D%20Finalist)
-
 
 ### Papers Under Review/Revision
 
 - Y. Lu, H. Salemi, B. Balasundaram, A. Buchanan. On fault-tolerant low-diameter clusters in graphs. Submitted. [(link)](http://www.optimization-online.org/DB_HTML/2021/08/8553.html)
 
-- H. Salemi, D. Davarnia. On the structure of decision diagram-representable mixed integer programs with application to unit commitment (*Extension to IISE 2021 paper*). Submitted. [(link)](http://www.optimization-online.org/DB_HTML/2021/01/8234.html)
 
 ### Practice of Operations Research
 
