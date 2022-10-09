@@ -27,7 +27,7 @@ with service level requirements. *International Journal of Industrial Engineerin
 
 ### PhD Dissertation 
 
-- Integer Programming Formulations for Distance-Constrained Network Problems. *Oklahoma State University*, 2020.
+- Integer Programming Formulations for Distance-Constrained Network Problems. *Oklahoma State University*, 2020. [(link)](https://www.proquest.com/openview/eeb7e6aa9219ce4ee6bd16c67b5b0a7d/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y)
 
 ### MSc Dissertation 
 
