@@ -3,7 +3,8 @@
 # About me 
 I am an Operations Research Scientist at [FedEx](https://www.fedex.com/en-us/home.html). Prior to this, I was a postdoc in the Department of Industrial and Manufacturing Systems Engineering at [Iowa State University](https://www.iastate.edu/). I earned my PhD in the School of Industrial Engineering and Management at [Oklahoma State University](https://go.okstate.edu/) under supervision of [Dr. Austin Buchanan](https://austinlbuchanan.github.io/). I also hold an MSc in Management Engineering from [Polytechnic University of Milan](https://www.polimi.it/en/) under supervision of [Dr. Riccardo Mangiaracina](https://www.som.polimi.it/en/professor/mangiaracina-riccardo/) and a BSc in Industrial and Systems Engineering from [Amirkabir University of Technology](http://aut.ac.ir/en/).
 
-My **email** address is hosseinali.salemi(at)fedex(dot)com. You can find my **CV** [here](https://drive.google.com/file/d/14_IMphh3CjNon-iR4ReLyaj3pdNPaesU/view?usp=sharing) and my **Google Scholar** [here](https://scholar.google.com/citations?user=rvuBQ_MAAAAJ&hl=en&oi=ao).
+My **email** address is hosseinali.salemi(at)fedex(dot)com. <br>
+You can find my **CV** [here](https://drive.google.com/file/d/14_IMphh3CjNon-iR4ReLyaj3pdNPaesU/view?usp=sharing) and my **Google Scholar** [here](https://scholar.google.com/citations?user=rvuBQ_MAAAAJ&hl=en&oi=ao).
 
 * * *
 
@@ -12,14 +13,16 @@ My research focuses on theory and computation in network design and analysis, ap
 
 ### Refereed Journal Papers
 
-1. Y. Lu, H. Salemi, B. Balasundaram, A. Buchanan. On fault-tolerant low-diameter clusters in graphs. To appear at *INFORMS Journal on Computing*. [(link)](http://www.optimization-online.org/DB_HTML/2021/08/8553.html)
+1. H. Salemi, D. Davarnia. Solving unsplittable network flow problems with decision diagrams. *Transportation Science*, 2023. [(link)](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2022.1194)
 
-2. H. Salemi, D. Davarnia. On the structure of decision diagram-representable mixed integer programs with application to unit commitment. To appear at *Operations Research*. [(link)](https://pubsonline.informs.org/doi/abs/10.1287/opre.2022.2353)<br>
-Finalist for IISE Best Paper Award in Energy Systems Division, 2021. [(link)](https://www.iise.org/details.aspx?id=43037#:~:text=%E2%80%9COn%20the%20Structure%20of%20Decision%20Diagram%2Drepresentable%20Mixed%20Integer%20Programs%20with%20Application%20to%20Unit%20Commitment%E2%80%9D%20Finalist)
+2. Y. Lu, H. Salemi, B. Balasundaram, A. Buchanan. On fault-tolerant low-diameter clusters in graphs. *INFORMS Journal on Computing*, 34(6): 3181-3199, 2022. [(link)](https://pubsonline.informs.org/doi/10.1287/ijoc.2022.1231)
 
-3. H. Salemi, A. Buchanan. Solving the distance-based critical node problem. *INFORMS Journal on Computing*, 34(3): 1309-1326, 2022. [(link)](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2021.1136) [(pdf)](https://drive.google.com/file/d/1mj6Y4AfKI7vkMUYea8Sg23StmuEkLHKH/view?usp=sharing) [(code)](https://github.com/halisalemi/DCNP)
+3. H. Salemi, D. Davarnia. On the structure of decision diagram-representable mixed integer programs with application to unit commitment. *Operations Research*, 2022. [(link)](https://pubsonline.informs.org/doi/10.1287/opre.2022.2353)<br>
+Finalist for IISE Best Paper Award in Energy Systems Division, 2021.
 
-4. H. Salemi, A. Buchanan. Parsimonious formulations for low-diameter clusters. *Mathematical Programming Computation*, 12(3): 493-528, 2020. [(link)](https://link.springer.com/article/10.1007/s12532-020-00175-6) [(pdf)](https://drive.google.com/file/d/1SgL7xWAeExdoQ3SjR0zertfrOOCoOlWA/view?usp=sharing) [(code)](https://github.com/halisalemi/ParsimoniousKClub)
+4. H. Salemi, A. Buchanan. Solving the distance-based critical node problem. *INFORMS Journal on Computing*, 34(3): 1309-1326, 2022. [(link)](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2021.1136) [(pdf)](https://drive.google.com/file/d/1mj6Y4AfKI7vkMUYea8Sg23StmuEkLHKH/view?usp=sharing) [(code)](https://github.com/halisalemi/DCNP)
+
+5. H. Salemi, A. Buchanan. Parsimonious formulations for low-diameter clusters. *Mathematical Programming Computation*, 12(3): 493-528, 2020. [(link)](https://link.springer.com/article/10.1007/s12532-020-00175-6) [(pdf)](https://drive.google.com/file/d/1SgL7xWAeExdoQ3SjR0zertfrOOCoOlWA/view?usp=sharing) [(code)](https://github.com/halisalemi/ParsimoniousKClub)
 
 5. H. Salemi. A hybrid algorithm for stochastic single-source capacitated facility location problem
 with service level requirements. *International Journal of Industrial Engineering Computations*, 7.2: 295-308, 2016. [(link)](http://m.growingscience.com/ijiec/Vol7/IJIEC_2015_37.pdf)
