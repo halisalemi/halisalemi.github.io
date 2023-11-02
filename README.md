@@ -9,11 +9,11 @@ You can find my **CV** [here](https://drive.google.com/file/d/14_IMphh3CjNon-iR4
 * * *
 
 # Research
-My research focuses on theory and computation in network design and analysis, applications of combinatorial optimization in data analytics of complex networks, and applications of OR/MS in supply chain management, transportation, and the energy sector.   
+My research focuses on theory and computation in network design and analysis and applications of OR/MS in transportation and supply chain management.   
 
 ### Refereed Journal Papers
 
-1. H. Salemi, D. Davarnia. Solving unsplittable network flow problems with decision diagrams. *Transportation Science*, 2023. [(link)](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2022.1194)
+1. H. Salemi, D. Davarnia. Solving unsplittable network flow problems with decision diagrams. *Transportation Science*, 57(4): 937-953, 2023. [(link)](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2022.1194)
 
 2. Y. Lu, H. Salemi, B. Balasundaram, A. Buchanan. On fault-tolerant low-diameter clusters in graphs. *INFORMS Journal on Computing*, 34(6): 3181-3199, 2022. [(link)](https://pubsonline.informs.org/doi/10.1287/ijoc.2022.1231)
 
@@ -24,7 +24,7 @@ Finalist for IISE Best Paper Award in Energy Systems Division, 2021.
 
 5. H. Salemi, A. Buchanan. Parsimonious formulations for low-diameter clusters. *Mathematical Programming Computation*, 12(3): 493-528, 2020. [(link)](https://link.springer.com/article/10.1007/s12532-020-00175-6) [(pdf)](https://drive.google.com/file/d/1SgL7xWAeExdoQ3SjR0zertfrOOCoOlWA/view?usp=sharing) [(code)](https://github.com/halisalemi/ParsimoniousKClub)
 
-5. H. Salemi. A hybrid algorithm for stochastic single-source capacitated facility location problem
+6. H. Salemi. A hybrid algorithm for stochastic single-source capacitated facility location problem
 with service level requirements. *International Journal of Industrial Engineering Computations*, 7.2: 295-308, 2016. [(link)](http://m.growingscience.com/ijiec/Vol7/IJIEC_2015_37.pdf)
 
 
@@ -49,9 +49,9 @@ with service level requirements. *International Journal of Industrial Engineerin
 * * *
 
 # Social
-- [Twitter](https://twitter.com/HASalemi)
 - [LinkedIn](https://www.linkedin.com/in/hosseinalisalemi/)
 - [GitHub](https://github.com/halisalemi)
+- [Twitter](https://twitter.com/HASalemi)
 - [ResearchGate](https://www.researchgate.net/profile/Hosseinali_Salemi)
 - [ORCID](https://orcid.org/0000-0002-0675-7886)
 
