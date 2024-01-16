@@ -17,7 +17,7 @@ My research focuses on theory and computation in network design and analysis and
 
 2. Y. Lu, H. Salemi, B. Balasundaram, A. Buchanan. On fault-tolerant low-diameter clusters in graphs. *INFORMS Journal on Computing*, 34(6): 3181-3199, 2022. [(link)](https://pubsonline.informs.org/doi/10.1287/ijoc.2022.1231)
 
-3. H. Salemi, D. Davarnia. On the structure of decision diagram-representable mixed integer programs with application to unit commitment. *Operations Research*, 71(6):1943-1959, 2022. [(link)](https://pubsonline.informs.org/doi/10.1287/opre.2022.2353)<br>
+3. H. Salemi, D. Davarnia. On the structure of decision diagram-representable mixed integer programs with application to unit commitment. *Operations Research*, 71(6): 1943-1959, 2022. [(link)](https://pubsonline.informs.org/doi/10.1287/opre.2022.2353)<br>
 Finalist for IISE Best Paper Award in Energy Systems Division, 2021.
 
 4. H. Salemi, A. Buchanan. Solving the distance-based critical node problem. *INFORMS Journal on Computing*, 34(3): 1309-1326, 2022. [(link)](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2021.1136) [(pdf)](https://drive.google.com/file/d/1mj6Y4AfKI7vkMUYea8Sg23StmuEkLHKH/view?usp=sharing) [(code)](https://github.com/halisalemi/DCNP)
