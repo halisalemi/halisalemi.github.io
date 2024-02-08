@@ -3,8 +3,8 @@
 # About me 
 I am an Operations Research Scientist at [FedEx](https://www.fedex.com/en-us/about.html). Prior to this, I was a postdoc in the Department of Industrial and Manufacturing Systems Engineering at [Iowa State University](https://www.iastate.edu/). I earned my PhD in the School of Industrial Engineering and Management at [Oklahoma State University](https://go.okstate.edu/) under supervision of [Dr. Austin Buchanan](https://austinlbuchanan.github.io/). I also hold an MSc in Management Engineering from [Polytechnic University of Milan](https://www.polimi.it/en/) under supervision of [Dr. Riccardo Mangiaracina](https://www.som.polimi.it/en/professor/mangiaracina-riccardo/) and a BSc in Industrial and Systems Engineering from [Amirkabir University of Technology](http://aut.ac.ir/en/).
 
-My **email** address is hosseinali.salemi(at)fedex(dot)com. <br>
-You can find my **CV** [here](https://drive.google.com/file/d/14_IMphh3CjNon-iR4ReLyaj3pdNPaesU/view?usp=sharing) and my **Google Scholar** [here](https://scholar.google.com/citations?user=rvuBQ_MAAAAJ&hl=en&oi=ao).
+My **email** address is hosseinali.salemi(at)fedex(dot)com.
+You can find my **Google Scholar** [here](https://scholar.google.com/citations?user=rvuBQ_MAAAAJ&hl=en&oi=ao).
 
 * * *
 
@@ -51,12 +51,6 @@ with service level requirements. *International Journal of Industrial Engineerin
 # Social
 - [LinkedIn](https://www.linkedin.com/in/hosseinalisalemi/)
 - [GitHub](https://github.com/halisalemi)
-- [Twitter](https://twitter.com/HASalemi)
+- [X](https://twitter.com/HASalemi)
 - [ResearchGate](https://www.researchgate.net/profile/Hosseinali_Salemi)
 - [ORCID](https://orcid.org/0000-0002-0675-7886)
-
-
-
-
-
-
