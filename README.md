@@ -9,7 +9,7 @@ You can find my **Google Scholar** [here](https://scholar.google.com/citations?u
 * * *
 
 # Research
-My research focuses on theory and computation in network design and analysis and applications of OR/MS in transportation and supply chain management.   
+My research focuses on theory and computation in network design and analysis and applications of OR/MS in transportation and supply chain.   
 
 ### Refereed Journal Papers
 
